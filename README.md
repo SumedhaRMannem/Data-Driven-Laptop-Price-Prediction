@@ -1,14 +1,14 @@
 # Data-Driven Laptop Price Prediction 
 
-## 📌 Project Overview
+##  Project Overview
 This project explores various machine learning techniques to predict laptop prices based on key hardware specifications. Using historical pricing data, we develop and evaluate multiple regression models to provide accurate price predictions, helping both buyers and sellers make informed decisions. 
 
-## 🔍 Objective
+##  Objective
 - **Enhance market transparency** by leveraging AI-driven price predictions.
 - **Assist buyers** in finding the best-priced laptops based on specifications.
 - **Help sellers** optimize pricing strategies based on market trends.
 
-## 📂 Dataset
+##  Dataset
 The dataset, sourced from Kaggle, contains laptop specifications such as:
 - `Company`
 - `TypeName`
@@ -51,26 +51,26 @@ Implemented and compared multiple regression models:
 - Predicting laptop prices based on user-defined specifications.
 - Generating price insights using the best-performing model.
 
-## 🏆 Key Findings
+##  Key Findings
 - The **Random Forest model** performed the best, explaining **88.6%** of variance in laptop prices.
 - **RAM, CPU, and Screen Resolution** were identified as the most significant price-influencing features.
 - The model provides **competitive price predictions**, making it useful for both consumers and retailers.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Python** \U0001F40D
 - **Pandas, NumPy** for data processing
 - **Scikit-learn, XGBoost** for machine learning
 - **Matplotlib, Seaborn** for data visualization
 - **Jupyter Notebook** for experimentation
 
-## 🚀 Future Improvements
+##  Future Improvements
 - Expand dataset with more laptop listings.
 - Implement deep learning-based price prediction models.
 - Build a web interface to allow users to input specifications and get price predictions.
 
 ---
 
-### 📌 Contributors
+###  Contributors
 **Sumedha Reddy Mannem**  
 **Course:** Machine Learning CSCI_6364_80  
 **Instructor:** David W. Trott, Ph.D. 
