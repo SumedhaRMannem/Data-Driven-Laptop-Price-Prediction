@@ -1,4 +1,4 @@
-# Data-Driven Laptop Price Prediction \U0001F4BB\U0001F4CA
+# Data-Driven Laptop Price Prediction 
 
 ## 📌 Project Overview
 This project explores various machine learning techniques to predict laptop prices based on key hardware specifications. Using historical pricing data, we develop and evaluate multiple regression models to provide accurate price predictions, helping both buyers and sellers make informed decisions. 
